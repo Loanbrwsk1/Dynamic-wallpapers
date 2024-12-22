@@ -1,13 +1,13 @@
 # Dynamic Wallpapers
 
-## Comment l'utiliser
+## How to use
 
-Mettre le dossier Dynamic_Wallpapers dans le dossier /usr/share/backgrounds/
+Put the folder Dynamic_Wallpapers in /usr/share/backgrounds/
 
-Mettre le contenu du dossier xml dans :
+Put the content of the xml folder in :
 
-- Sur GNOME : /usr/share/gnome-background-properties/
-- Sur CINNAMON : /usr/share/cinnamon-backgrounds-properties/
+- On GNOME : /usr/share/gnome-background-properties/
+- On CINNAMON : /usr/share/cinnamon-backgrounds-properties/
 - etc ...
 
-Puis changer votre fonfs d'écrans dans les paramètres de votre système.
+Then change your wallpaper in your system settings.
